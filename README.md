@@ -16,12 +16,12 @@ sudo apt-get install libxtst-dev
 
 ### 1. Download:
 ```
-git clone https://github.com/Savage3e/Nika
+git clone https://github.com/1stgenrogue/nika-reloaded.git
 ```
 
 ### 2. Get inside the folder
 ```
-cd Nika
+cd nika-reloaded
 ```
 
 ### 3. Compile the program:
@@ -36,11 +36,24 @@ Open steam and start apex and wait for it to fully start
 
 ### 5. Run the cheat
 ```
-sudo ./a.out
+sudo ./a.out in your linux terminal
 ```
 
 ## Credits: (arturzxc, Azreol, duckman6969)
 ```
 Grinder
++
 Xap-client
++
 FixSkillIssue
++
+GPT-4 
+............
+VVVVVVVVVVV
+Nika by Savage
+------------
+Nika Disappears (So does Savage)
+---------------
+vvvvvvvvvvvvvvv
+NIKA-RELOADED is born.  Just think of it like, a, re-work.  Re-working Savages work to help you guys at unknown, well, put in work.
+
