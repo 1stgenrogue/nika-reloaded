@@ -39,7 +39,7 @@ Open steam and start apex and wait for it to fully start
 sudo ./a.out in your linux terminal
 ```
 
-## Credits: (arturzxc, Azreol, duckman6969)
+## Credits: (arturzxc, Azreol, duckman6969, ShooK_1 (the red team leader), GPT-4, EAC4LINUX)
 ```
 Grinder
 +
@@ -55,5 +55,5 @@ Nika by Savage
 Nika Disappears (So does Savage)
 ---------------
 vvvvvvvvvvvvvvv
-NIKA-RELOADED is born.  Just think of it like, a, re-work.  Re-working Savages work to help you guys at unknown, well, put in work.
+NIKA-RELOADED is born...as little wattson would say, "PRED 4 ALL!!!"
 
